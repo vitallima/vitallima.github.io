@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c946edb6ebc829643bea561482076d95.js"
+  "/precache-manifest.598a1a11f3da6308190413071cf9b187.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "oncologia"});
